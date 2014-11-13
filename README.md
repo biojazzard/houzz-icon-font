@@ -4,6 +4,16 @@ This is just a font icon to *temporarily* supplement [Font Awesome](http://fonta
 
 Hopefully it will be added to Font Awesome soon, but in the mean time this seems to be working well for me.
 
+# Usage
+
+Include the css inside your `head` tag
+
+```<link rel="stylesheet" href="/path/to/houzz-icon-font.css">```
+
+You can use this icon just like you would FontAwesome    
+
+```<i class="icon-houzz"></i>```
+
 ## Thanks
 
 I wanted to give a **big thanks** to [@endtwist](https://github.com/endtwist) and [@kaizau](https://github.com/kaizau) for their awesome work on [FontCustom](https://github.com/FontCustom/fontcustom). FontCustom made this *super* fucking easy.
