@@ -7,12 +7,24 @@ Hopefully it will be added to Font Awesome soon, but in the mean time this seems
 # Usage
 
 Include the css inside your `head` tag
+```html
+<link rel="stylesheet" href="/path/to/houzz-icon-font.css">
+```
 
-```<link rel="stylesheet" href="/path/to/houzz-icon-font.css">```
+You can use this icon just like you would Font Awesome    
+```html
+<i class="icon-houzz"></i>
+```
 
-You can use this icon just like you would FontAwesome    
+It's even working out of the box with Font Awesome's stack feature!   
+```html
+<span class="fa-stack">
+  <i class="fa fa-circle fa-stack-2x"></i>
+  <i class="icon-houzz fa-inverse fa-stack-1x"></i>
+</span>
+```
 
-```<i class="icon-houzz"></i>```
+
 
 ## Thanks
 
